@@ -95,3 +95,4 @@ int main() {
   return 0;
 }
 //bitwise XOR O(n) 
+//https://prnt.sc/IfqlQ_KseBuk
