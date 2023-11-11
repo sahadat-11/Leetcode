@@ -36,3 +36,6 @@ int main() {
   cout << ans << "\n";
   return 0;
 }
+
+//You use conveyor belts to ship packages from one port to another.
+//https://takeuforward.org/arrays/capacity-to-ship-packages-within-d-days/
