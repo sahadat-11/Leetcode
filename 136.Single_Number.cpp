@@ -96,3 +96,4 @@ int main() {
 }
 //bitwise XOR O(n) 
 //https://prnt.sc/IfqlQ_KseBuk
+// https://prnt.sc/S1f9ZdQbxb_q
